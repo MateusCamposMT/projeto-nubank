@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98565933/184498626-4292aaf0-781e-4d1c-81fd-92de372d7f25.png" width="200px" />
+  <img src="https://user-images.githubusercontent.com/98565933/184500529-345a869d-8c64-402a-b921-9f2fa6a083bb.png" width="200px" />
 </div>
 
 <h1 align="center"><strong>Projeto Nubank</strong></h1>
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a> <strong>||</strong>
   <a href="#tecnologias">Tecnologias</a> <strong>||</strong>
-  <a href="https://mateuscamposmt.github.io/projeto-bikcraft/">Link para o projeto</a>
+  <a href="https://mateuscamposmt.github.io/projeto-nubank/">Link para o projeto</a>
 </p>  
 
 <div align="center">
@@ -20,8 +20,8 @@
 
 <h2>#Sobre</h1>
 A ideia do projeto foi aplicar a biblioteca CSS Sass/SCSS, criando diversos componentes para cada seção do site.
-aplicando melhor o estilo em cascata do próprio CSS para melhorar a organizção do nosso codigo.
-Seguindo boas práticas com as tags semânticas para uma melhor leitura entre os Browsers.
+aplicando melhor o estilo em cascata do próprio CSS melhorando a organizção do nosso codigo.
+Seguindo boas práticas com as tags semânticas com o objetivo de fazer a leitura entre os Browsers ficar mais simples.
 
 Utilizamos o figma como referência para aplicarmos o layout proporcionado em forma de codigos.
 
