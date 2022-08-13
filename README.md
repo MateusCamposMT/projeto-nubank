@@ -42,5 +42,5 @@ Utilizamos o figma como referência para aplicarmos o layout proporcionado em fo
   <li>Propriedades motion com svg</li>
   <li>Flex-Box</li>
   <li>Responsividade</li>
-  <li>Codigos semânticos</li>
+  <li>Tags semânticas</li>
 </ul>
