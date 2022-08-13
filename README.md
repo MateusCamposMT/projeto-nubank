@@ -19,6 +19,11 @@
 
 
 <h2>#Sobre</h1>
+A ideia do projeto foi aplicar a biblioteca CSS Sass/SCSS, criando diversos componentes para cada seção do site.
+aplicando melhor o estilo em cascata do próprio CSS para melhorar a organizção do nosso codigo.
+Seguindo boas práticas com as tags semânticas para uma melhor leitura entre os Browsers.
+
+Utilizamos o figma como referência para aplicarmos o layout proporcionado em forma de codigos.
 
 
 
@@ -34,10 +39,6 @@
   <li>svg-inject</li>
   <li>Propriedades motion com svg</li>
   <li>Flex-Box</li>
-  
   <li>Responsividade</li>
   <li>Codigos semânticos</li>
-  <li>Compatibilidade  entre os navegadores</li>
-  <li>acessibilidade</li>
-  <li>etc...</li>
 </ul>
