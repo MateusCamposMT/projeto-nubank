@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>Projeto Nubank</strong></h1>
 
-<p align="center"><strong>Este projeto foi criado no intuito de pegar o site da nubank como referência e criar o nosso próprio modelo de designer.</strong></p>
+<p align="center"><strong>Este projeto foi criado no intuito de utilizar o site da nubank como referência e criar o nosso próprio modelo de designer.</strong></p>
 <p align="center">
   <a href="#sobre">Sobre</a> <strong>||</strong>
   <a href="#tecnologias">Tecnologias</a> <strong>||</strong>
